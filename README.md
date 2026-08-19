@@ -1,1 +1,1 @@
-# DTSC-2301 Project 1
+# Russia Macroeconomic Analysis
